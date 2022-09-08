@@ -23,7 +23,7 @@
 }
 
 #event-description{
-    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url("../assets/img/decoracao1.jpg");
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url("/InDecor/assets/img/decoracao1.jpg");
     background-position: center;
     background-size: cover;
     height: 85vh;
@@ -148,22 +148,22 @@
 }
 
 #benefit-1{
-    background-image: url("../assets/img/benefit1.jpg");
+    background-image: url("/InDecor/assets/img/benefit1.jpg");
 }
 
 #benefit-2{
-    background-image: url("../assets/img/benefit2.jpg");
+    background-image: url("/InDecor/assets/img/benefit2.jpg");
 }
 
 #benefit-3{
-    background-image: url("../assets/img/benefit3.jpg");
+    background-image: url("/InDecor/assets/img/benefit3.jpg");
 }
 
 /* Location Section */
 
 #location{
     height: 400px;
-    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url("../assets/img/decoracao2.jpg");
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url("/InDecor/assets/img/decoracao2.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -256,7 +256,7 @@
 
 #cta{
     height: 400px;
-    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url("../assets/img/decoracao7.jpg");
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url("/InDecor/assets/img/decoracao7.jpg");
     background-position: center;
     background-size: cover;
     display: flex;
